@@ -1,7 +1,8 @@
 # 🧭 magScanner2D
 
 <div style="display: inline_block">
-<img align="center" src="/image/demo.gif" alt="Demonstração"  width="40%">
+<img align="center" src="/image/magScanner2D.gif" alt="Demonstração"  width="40%">
+<img align="center" src="/image/magScanner2D.jpg" alt="Foto"  width="30%">
 </div>
 
 **magScanner2D** is a 2D polar scanner built on an ESP32 microcontroller. It uses a magnetometer for angular orientation and a time-of-flight distance sensor to map surrounding objects in real time. The system displays the scan on an OLED screen and logs data via Serial in CSV format.
